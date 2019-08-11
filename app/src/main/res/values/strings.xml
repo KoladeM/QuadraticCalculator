@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuadraticCalculator</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="x1">x\u2081 :</string>
+    <string name="x2">x\u2082 :</string>
+    <string name="clear">Clear</string>
+    <string name="compute">Compute</string>
+    <string name="first_square_text">Your first square shows here</string>
+    <string name="second_square_text">Your second square shows here</string>
+</resources>
